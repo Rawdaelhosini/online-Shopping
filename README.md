@@ -1,6 +1,8 @@
-# api
+# Online SHopping
 
-A new Flutter project.
+:ocean: Excited to unveil my latest project: an Online Shopping Platform! 
+ I have successfully developed an online shop application using Flutter! This project has been a fantastic journey, allowing me to dive deep into mobile app development and create a seamless shopping 
+
 
 ## Getting Started
 
