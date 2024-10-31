@@ -9,7 +9,7 @@
 
 1. #### **Authentication:**
    - Secure user logins to protect personal information.
-1. #### **Search Functionality:mag: :** 
+1. #### **Search Functionality :mag: :** 
    -  Easily find products with our advanced search feature.
 1. #### **Product Display:**
    - View detailed information about each product.
