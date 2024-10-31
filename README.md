@@ -14,17 +14,17 @@
 1. #### **Product Display:**
    - View detailed information about each product.
 1. #### **Categories:**
-- Browse through various categories for a seamless shopping experience.
+ - Browse through various categories for a seamless shopping experience.
 1. #### **Favorites:**
-- Save your favorite items for quick access later.
+ - Save your favorite items for quick access later.
 1. #### **Shopping Cart:**
-- Effortlessly manage your selected products before checkout.
+ - Effortlessly manage your selected products before checkout.
 1. #### **User Data Updates:**
--Update your profile and preferences anytime.
+ - Update your profile and preferences anytime.
 1. #### **Password Management:**
--Easily change your password for enhanced security.
+ - Easily change your password for enhanced security.
 1. #### **Logout Option:**
-- Securely log out after your shopping session.
+ - Securely log out after your shopping session.
 I’m looking forward to your feedback and suggestions as we continue to improve the user experience!
 
 
