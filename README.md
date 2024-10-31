@@ -25,6 +25,10 @@
    - Easily change your password for enhanced security.
 1. #### **Logout Option:**
    - Securely log out after your shopping session.
-I’m looking forward to your feedback and suggestions as we continue to improve the user experience!
+     
+-I’m looking forward to your feedback and suggestions as we continue to improve the user experience!
+
+-Watch the video about the Application:**
+ - https://drive.google.com/file/d/1oLHxHMwzfOr62BLjpPwwTCXgTBqeYJo5/view?usp=sharing
 
 
