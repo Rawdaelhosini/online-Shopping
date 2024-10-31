@@ -15,9 +15,9 @@
    - View detailed information about each product.
 1. #### **Categories:**
  - Browse through various categories for a seamless shopping experience.
-1. #### **Favorites:**
+5. #### **Favorites:**
  - Save your favorite items for quick access later.
-1. #### **Shopping Cart:**
+1. #### **Shopping Cart 🛒 :**
  - Effortlessly manage your selected products before checkout.
 1. #### **User Data Updates:**
  - Update your profile and preferences anytime.
